@@ -1,0 +1,13 @@
+{
+    "products": [
+      { "id": 1, "pname": "아메리카노", "price": 3500 },
+      { "id": 2, "pname": "라떼", "price": 4500 },
+      { "id": 3, "pname": "프라프치노", "price": 6500 },
+      { "id": 4, "pname": "그린티", "price": 4000 }
+    ],
+
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
